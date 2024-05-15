@@ -1,5 +1,5 @@
 # Ball Bearing Design 
-finding  the Dimensions according to requirement 
-Analysing the Static and Dyamics Analysis 
+finding  the Dimensions according to the requirement 
+Analysing the Static and Dynamic Analysis 
 Calculating the Life cycles
 Checking the Fatigue Failure 
